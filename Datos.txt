@@ -1,0 +1,5 @@
+Nombre	Cantidad	Precio	Monto a pagar
+limon	5	12	60
+pera	40	5	200
+El producto más costoso es:pera
+El producto más economico es:limon
